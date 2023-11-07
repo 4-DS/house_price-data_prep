@@ -13,7 +13,7 @@
     [
         {
             "substep_name":"data_prep.ipynb",
-            "params": {}
+            "substep_params": {}
         }
     ]
 }
